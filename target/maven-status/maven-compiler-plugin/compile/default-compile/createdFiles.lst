@@ -1,0 +1,5 @@
+com/mkyong/model/Assinante.class
+com/mkyong/model/Champion.class
+com/mkyong/rest/HibernateTest.class
+com/mkyong/util/HibernateUtil.class
+com/mkyong/rest/RestService.class
