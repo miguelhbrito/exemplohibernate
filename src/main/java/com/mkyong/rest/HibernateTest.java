@@ -11,7 +11,6 @@ import org.hibernate.Session;
 import org.hibernate.criterion.Restrictions;
 
 import com.mkyong.model.Assinante;
-import com.mkyong.model.Champion;
 import com.mkyong.util.HibernateUtil;
 
 public class HibernateTest {
